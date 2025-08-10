@@ -1,7 +1,7 @@
 # life-expectancy-who
 
-**Warning!** - this repository is created to memorize some core of the statistics - simple linear regression.
+**Warning!** – This repository was created to memorize some core concepts of statistics – **simple linear regression**.
 
-# Date
+## Data
 
-Data is imported from [Kaggle|(https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)]
+The dataset is imported from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
