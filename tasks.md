@@ -1,1 +1,1 @@
-* [] - add standartization function before applying model to data 
+* [] add standartization function before applying model to data 
